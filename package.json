@@ -1,0 +1,25 @@
+{
+  "name": "getmydropbox",
+  "version": "1.0.0",
+  "description": "getMyDropbox dependencies",
+  "main": "getMyDropbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hckia/getMyDropbox.git"
+  },
+  "author": "Cyrus Kia",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/hckia/getMyDropbox/issues"
+  },
+  "homepage": "https://github.com/hckia/getMyDropbox#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dropbox": "^10.34.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
